@@ -1,19 +1,3 @@
 # Challenge 1
 
-Examine the following code snippet and identify any issues with the abstract class and virtual function. Provide a corrected version of the code.
-
-```cpp
-class Shape {
-public:
-    void getArea() = 0;
-};
-
-class Circle : public Shape {
-public:
-    Circle(double radius) : m_radius(radius) {}
-    double getArea() { return 3.14159 * m_radius * m_radius; }
-
-private:
-    double m_radius;
-};
-```
+Imagine you are designing a simple vehicle hierarchy. The base class is called Vehicle, which contains common properties like speed and fuel. You also have two derived classes: Car and Motorcycle, both of which inherit from Vehicle. Create a pseudocode representation of this class hierarchy.
