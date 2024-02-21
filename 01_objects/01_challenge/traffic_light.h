@@ -2,6 +2,4 @@
 
 // TODO
 
-std::string get_action(TrafficLight light) {
-    // TODO
-}
+std::string get_action(TrafficLight light);
