@@ -1,4 +1,5 @@
 # Challenge 3
+Code your solution in the provided header and source files. Separate your interface and implementations. Your `main` function should go in `main.cpp`.
 
 Create a `BankAccount` class with the following features:
 
