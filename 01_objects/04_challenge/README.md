@@ -1,6 +1,6 @@
 # Challenge 4
 
-Implement a `Person` class with a `std::string` name member variable and a constructor that takes a name as a parameter.
+Implement a `Person` class with a `std::string name` member variable and a constructor that takes a name as a parameter.
 
 Implement a `Team` class with the following features:
 
